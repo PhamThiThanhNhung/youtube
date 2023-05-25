@@ -11,7 +11,7 @@ export const cartItems = [
   {
     id: 1,
     name: "IIFE trong Javascript là gì? Hiểu IIFE cùng F8 nha!",
-    lastname: "ihwihdfowfhw",
+    lastname: "Học lập trình cùng F8",
     avatar: avatar,
     link: "/video/1",
     img: myimg,
@@ -20,7 +20,7 @@ export const cartItems = [
   {
     id: 2,
     name: "[Review] 1001 Nước giải khát KỲ LẠ ở SIÊU THỊ | Mía tắc, sả chanh, bia không cồn, sương sáo..v..v",
-    lastname: "ihwihdfowfhw",
+    lastname: "Học lập trình cùng F8",
     avatar: avatar,
     img: videcard,
     link: "/video/2",
@@ -29,7 +29,7 @@ export const cartItems = [
   {
     id: 3,
     name: "(Phần 1) Bản chất của tiền | Chữa lành mối quan hệ với tiền | [ Samyhealing.vn ]",
-    lastname: "ihwihdfowfhw",
+    lastname: "Học lập trình cùng F8",
     avatar: avatar,
     img: myimg,
     link: "/video/3",
@@ -39,7 +39,7 @@ export const cartItems = [
   {
     id: 4,
     name: "Thám Tử Lừng Danh Conan ",
-    lastname: "ihwihdfowfhw",
+    lastname: "Học lập trình cùng F8",
     avatar: avatar,
     img: videcard,
     link: "/video/4",
@@ -47,7 +47,7 @@ export const cartItems = [
   },
   {
     name: "Promise chain",
-    lastname: "ihwihdfowfhw",
+    lastname: "Học lập trình cùng F8",
     avatar: avatar,
     img: videcard,
     link: "/video",
@@ -55,7 +55,7 @@ export const cartItems = [
   },
   {
     name: "Reactjs 2022",
-    lastname: "ihwihdfowfhw",
+    lastname: "Học lập trình cùng F8",
     avatar: avatar,
     img: myimg,
     link: "/video/5",
@@ -63,7 +63,7 @@ export const cartItems = [
   },
   {
     name: "Neu luc do",
-    lastname: "ihwihdfowfhw",
+    lastname: "Học lập trình cùng F8",
     avatar: avatar,
     img: videcard,
     link: "/video/6",
@@ -71,7 +71,7 @@ export const cartItems = [
   },
   {
     name: "cuoc song cua co gai doc than",
-    lastname: "ihwihdfowfhw",
+    lastname: "Học lập trình cùng F8",
     avatar: avatar,
     img: myimg,
     link: "/video/7",

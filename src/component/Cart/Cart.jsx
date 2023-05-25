@@ -18,7 +18,7 @@ const Cart = ({ image, avatar, name, icon, lastname, link }) => {
   };
 
   return (
-    <div className="card">
+    <div className="card" >
       <Link to={link}>
         <img className="card-image" src={image} />
       </Link>
