@@ -1,0 +1,98 @@
+.navbarwrapper{
+    padding: 10px 0;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    justify-content: center;
+    z-index: 10;
+    position: fixed;
+    
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 16px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.icon-menu{
+    display: flex;
+    padding: 15px 20px;
+    align-items: center;
+
+}
+.logo{
+    height: 40px;
+    margin-left: 10px;
+
+}
+.search-item{
+    display: flex;
+}
+.action-search{
+    display: flex;
+    align-items: center;
+    border: 1px solid gray;
+    font-size: 30px;
+    border-radius: 20px;
+    justify-items: center;
+    align-items: center;
+    outline: none;
+}
+.search{
+    width: 350px;
+    border: none;
+    outline: none;
+}
+.icon-search{
+    background-color: gray;
+    border-left: 1px solid rgb(175, 175, 175);
+    border-radius: 0 20px 20px 0;
+}
+.input{
+    width: 40px;
+    height: 25px;
+}
+.navbar-icon{
+    width: 20px;
+    padding: 0 10px;
+}
+.navbar{
+    width: 250px;
+    padding-right: 10px;
+    color: black;
+}
+.menu{
+    display: block;
+    height: 20px;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+}
+.menu:hover{
+    background-color: grey;
+}
+
+.options{
+    flex: 0 0 auto;
+    padding: 10px 20px;
+    border-radius: 50px;
+    background: #f0f0f0;
+    border: 1px solid #dbdbdb;
+    margin-right: 10px;
+    color: #242424;
+    font-size: 14px;
+    cursor: pointer;
+}
+.options:hover{
+    background: black;
+    color: white;
+}

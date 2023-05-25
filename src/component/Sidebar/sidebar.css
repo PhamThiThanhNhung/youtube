@@ -1,0 +1,30 @@
+.sidebarwrapper{
+    position: fixed;
+    padding-top: 120px;
+    height: calc(100vh - 150px);
+    padding-bottom: 120px;
+    overflow-y: scroll;
+}
+
+.side-bar{
+    margin-left: 250px;
+    overflow-x: scroll;
+    top: 60px;
+    height: 40px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    
+}
+
+.side-bar::-webkit-scrollbar {
+    display: none;
+}
+.video-item{
+    margin-left: 50px;
+}
+.item1{
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 10px;
+}

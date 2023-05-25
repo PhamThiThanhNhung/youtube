@@ -1,0 +1,52 @@
+.card {
+    /* border: 1px solid gray; */
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 30px;
+}
+
+.card-image {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    transform: tr;
+    
+}
+
+.card-info {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    
+}
+
+.card-info__left {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-overflow: clip;
+}
+
+.avatar {
+    width: 40px;
+    border-radius: 100%;
+}
+
+.name {
+    width: 100px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card-description {
+    width: 150px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    padding: 0 10px;
+}
+

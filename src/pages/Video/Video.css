@@ -1,0 +1,63 @@
+.video-page{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 70px;
+}
+.video{
+    width: 850px;
+}
+.info-video{
+    font-weight: 700px;
+}
+.img{
+    width: 850px;
+    height: 500px;
+    object-fit: cover;
+}
+.account{
+    display: flex;
+    height: 40px;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.info-video{
+    font-weight: 600;
+}
+.information{
+    display: flex;
+    gap: 10px;
+}
+
+.information1{
+   display: flex;
+   gap: 10px;
+}
+.avt-account{
+    border-radius: 50%;
+    object-fit: cover;
+}
+.button-items{
+    justify-content: center;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    width: 120px;
+    border-radius: 30px;
+}
+.button-items2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.button-info{
+    width: 100%;
+    margin-top: 20px;
+    height: 100px;
+    border-radius: 10px;
+    justify-content: start;
+}
+.video-card{
+    display: flex;
+    margin-left: 50px;
+}
